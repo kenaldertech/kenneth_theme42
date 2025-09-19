@@ -1,0 +1,14 @@
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+vendor/
+
+# GitHub actions & temp
+.github/
+*.zip
+*.log
